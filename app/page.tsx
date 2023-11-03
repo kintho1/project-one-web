@@ -43,7 +43,7 @@ const Home = () => {
                 Betfair Australia&nbsp;
               </span>
               / This is a test application demonstrating some of the Ably fundamentals
-              with Next.js. 
+              with Next.js.
               This includes features such as notifications, activity streams, realtime visualisations and dashboards.
             </div>
             <div className="flex flex-col justify-start items-start gap-4 h-[488px]">
